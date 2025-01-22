@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name" translatable="false">madexam02</string>
+    <string name="img1" translatable="false">TODO</string>
+    <string name="button" translatable="false">Button</string>
+    <string name="imgg" translatable="false">TODO</string>
+    <string name="text1" translatable="false">HELLO</string>
+    <string name="login_with_email" translatable="false">Login with Email</string>
+    <string name="already_have_an_account" translatable="false">Already have an account</string>
+    <string name="login" translatable="false">Login</string>
+    <string name="img" translatable="false">image</string>
+    <string name="sign_in" translatable="false">Sign in</string>
+    <string name="logo_" translatable="false">RR store logo</string>
+    <string name="applogo" translatable="false">applogo\n</string>
+    <string name="ExploreRRfashion" translatable="false">Explore RR fashion</string>
+    <string name="Name" translatable="false">Name :</string>
+    <string name="email" translatable="false">E-mail :</string>
+    <string name="passwd" translatable="false">Password :</string>
+    <string name="next" translatable="false">Next</string>
+    <string name="signinoffer" translatable="false">Welcome to Peak Away! Unlock $10 Off your first purchase! 🎉 </string>
+    <string name="createaccount" translatable="false">create your account</string>
+    <string name="enteryourname" translatable="false">Enter your Name</string>
+    <string name="enteryouremail" translatable="false">Enter your E-mail</string>
+    <string name="enteryourpassword" translatable="false">Enter password</string>
+    <string name="explorediscription" translatable="false">Explore the 2024\'s newest fashion with ournew collection..🌍 Sustainable Choices Discover our range of eco-friendly and ethically sourced fashion items</string>
+    <string name="onboarddiscription" translatable="false"> Hello R R fashion is most famous online shoping platform.Explore the 2024\'s newest fashion with our new collection…</string>
+    <string name="homepageuserprofilebutton" translatable="false">button01</string>
+    <string name="username">Eranga harsha</string>
+    <string name="Myprofile">myprofile</string>
+    <string name="address">address</string>
+    <string name="Creditcard">Creditcards</string>
+    <string name="useremail">Erangaharsha739@gmail.com</string>
+    <string name="Home">Home</string>
+    <string name="imgbutton">Imgbutton</string>
+    <string name="useremailaddress">Erangaharsha739@gmail.com</string>
+    <string name="adreesvalue">Anuradhapura,Srilanka</string>
+    <string name="imghome">image3</string>
+    <string name="Signup">sign_up</string>
+    <string name="createaaccount">Don\'t have an account ?</string>
+    <string name="logout">Logout</string>
+    <string name="Telephone">Telephone:</string>
+    <string name="paswd_re">Re_Enter password</string>
+    <string name="emptpasswd">Password</string>
+    <string name="buynow">Buy Now</string>
+</resources>
