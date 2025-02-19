@@ -26,8 +26,12 @@ The **Fashion Shopping App** is designed to help shoppers unleash their full pot
 
 
 preview image:
-![Lunch screen](https://github.com/user-attachments/assets/ad501a02-0a69-419c-8d52-6241f3cf5f6c)
 
+
+
+
+
+![Lunch screen](https://github.com/user-attachments/assets/ad501a02-0a69-419c-8d52-6241f3cf5f6c)
 ![home screen](https://github.com/user-attachments/assets/ea14494f-558e-4cd1-88e0-891d1da32b13)
 ![homescreen 2](https://github.com/user-attachments/assets/2d5925e0-7e62-4083-8b67-9a8754bdf43f)
 ![login screen](https://github.com/user-attachments/assets/9dae0513-632d-49ae-bbbc-e6b91ecb56d5)
